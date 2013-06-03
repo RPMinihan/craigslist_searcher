@@ -43,6 +43,5 @@ end
 	}
 
 }
-puts total.to_s
 
 
